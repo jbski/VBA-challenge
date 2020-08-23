@@ -38,11 +38,10 @@ In addition to compiling the data for each ticker symbol the VBA script also sel
   
 ## Link to .xlsm file containing sample data
 A file including sample data has been included at the following link.  The file containing the full set of multiple year stock data 
-is ~115MB and exceeds the 25 MB Github limit.
+is ~115MB and exceeds the 25MB Github limit.
 
-
-
-  
+Sample Stock Data:
+https://github.com/jbski/VBA-challenge/blob/master/alphabetical_testing.xlsm
     
     
 ## Screen shots of results:
