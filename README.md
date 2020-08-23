@@ -19,5 +19,7 @@ Each tab in the data file includes a year's worth of stock market data broken do
     4. The total trading volume of each stock for the year.
     5. Any stocks that increased in price that year are highlighted in green. Any stocks that decreased in price in a given year highlighted in red.
     
+## Images
 
+2014 Stock Results.PNG
     
