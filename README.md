@@ -29,10 +29,11 @@ In addition to compiling the data for each ticker symbol the VBA script also sel
 ## Link to .vbs files containing script
 
   1. Multiple_year_stock_data_script:
-  
+  https://github.com/jbski/VBA-challenge/blob/master/Multiple_year_stock_data.vbs  
   
   
   2. alphabetical_testing_data_script:
+  
     
     
 ## Screen shots of results:
