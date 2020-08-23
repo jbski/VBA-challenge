@@ -33,6 +33,7 @@ In addition to compiling the data for each ticker symbol the VBA script also sel
   
   
   2. alphabetical_testing_data_script:
+  https://github.com/jbski/VBA-challenge/blob/master/alphabetical_testing.vbs
   
     
     
