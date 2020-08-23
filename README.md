@@ -35,6 +35,14 @@ In addition to compiling the data for each ticker symbol the VBA script also sel
   2. alphabetical_testing_data_script:
   https://github.com/jbski/VBA-challenge/blob/master/alphabetical_testing.vbs
   
+  
+## Link to .xlsm file containing sample data
+A file including sample data has been included at the following link.  The file containing the full set of multiple year stock data 
+is ~115MB and exceeds the 25 MB Github limit.
+
+
+
+  
     
     
 ## Screen shots of results:
